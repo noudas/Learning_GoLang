@@ -20,5 +20,3 @@ Robert Griesemer: Worked on the V8 JavaScript engine.
 * Scalability: Ideal for building scalable systems that can handle large volumes of traffic.
 * Web Services: Excellent for developing web services and APIs due to its performance and simplicity.
 * Servers: Suitable for creating efficient and reliable server applications.
-
-#teste git
